@@ -61,4 +61,4 @@ Here are some result -
 
 https://drive.google.com/drive/folders/1ON1h9qS3QZsX2YdjOiODgkh3QC3-YBv3?usp=share_link
 
-we tried some other ICs but all the videos are not recorded 😔
+I tried this device on some other ICs but all the videos are not recorded.
