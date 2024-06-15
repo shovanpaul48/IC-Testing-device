@@ -196,7 +196,7 @@ void display(bool arr[] ,int Output_pin[] ,int total_gates,int No_inputs ,String
     start();
 } 
 
-// ------------------ THIS FUNCTION IS USED FOR CHOOSING COORCT IC FOR TEST -----------------------------------------
+// ------------------ THIS FUNCTION IS USED FOR CHOOSING CORRECT IC FOR TEST -----------------------------------------
 
 //------- This Function set Pin modes ------------------------
 void Set_PIN_modes(int OUTPUT_pins[], int INPUT_pins[], int GND,int VCC, int No_inputs, int No_outputs, int Total_gates  ){
