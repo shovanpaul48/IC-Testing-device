@@ -38,11 +38,11 @@ in the IC list to determine the testing IC.
 
 ## Result 🚀
 
-We tried some ICs (7400,7404,7408...etc) on this device.
+I tried some ICs (7400,7404,7408...etc) on this device.
 
 ### Simulation result
 
-First we tried our algorithm in proteous before build the device physically.
+First I tried our algorithm in proteous before build the device physically.
 Here are some result -
 ![Simulation1](https://github.com/shovanpaul48/IC-Testing-device/blob/master/Images/SIMUresul4.png)
 
